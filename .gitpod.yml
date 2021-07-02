@@ -1,4 +1,4 @@
 image:
   file: .gitpod.Dockerfile
-tasks:
-  - init: source $HOME/.emsdk/emsdk_env.sh
+#tasks:
+#  - init: source $HOME/.emsdk/emsdk_env.sh
